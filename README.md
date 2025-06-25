@@ -1,1 +1,1 @@
-# NeurIPS-_-Open_Polymer_Prediction_2025
+# NeurIPS_Open_Polymer_Prediction_2025
